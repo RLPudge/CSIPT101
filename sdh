@@ -1,0 +1,73 @@
+[33mcommit 7a36c98319d31d0c0e92ae09135788ef652e4025[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: unknown <alkuinoearnest1@gmail.com>
+Date:   Fri Feb 3 12:31:19 2023 +0800
+
+    Luna.txt and Ralph.txt
+
+[33mcommit 9985825d486a54c43ea1cbce72db71481bc4bd5a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d59f568 4dd37e2
+Author: David Eric Oreta <deoreta@mseuf.edu.ph>
+Date:   Thu Mar 10 11:24:33 2022 +0800
+
+    Fixed login.html
+
+[33mcommit d59f568c09b03795531bf3ea7f303c564405ae80[m
+Author: David Eric Oreta <deoreta@mseuf.edu.ph>
+Date:   Thu Mar 10 11:21:30 2022 +0800
+
+    Modified login.html
+
+[33mcommit 4dd37e2d0552344f2dafca4c9b82069b7a8b5aa8[m
+Author: David Eric Oreta <deoreta@mseuf.edu.ph>
+Date:   Thu Mar 10 11:18:41 2022 +0800
+
+    Fixed login.html
+
+[33mcommit fd46b1f473ed86b295b6b4946c9b7f4695738285[m
+Merge: 6f9f8d7 8cc5bb5
+Author: David Eric Oreta <deoreta@mseuf.edu.ph>
+Date:   Thu Mar 10 11:16:08 2022 +0800
+
+    Merge branch 'feature2'
+
+[33mcommit 8cc5bb5e9743adc49953e4fab1d4f0bc9244725e[m
+Author: David Eric Oreta <deoreta@mseuf.edu.ph>
+Date:   Thu Mar 10 11:13:07 2022 +0800
+
+    Added login.html
+
+[33mcommit 6f9f8d703454149fefb1c0c5e56422c7d54a255b[m
+Author: David Eric Oreta <deoreta@mseuf.edu.ph>
+Date:   Thu Mar 10 11:04:39 2022 +0800
+
+    Added basic html structure to home.html with title
+
+[33mcommit e51a3178902ed1cda5a55f23bbe343a3db34f528[m
+Author: David Eric Oreta <deoreta@mseuf.edu.ph>
+Date:   Thu Mar 10 11:02:37 2022 +0800
+
+    Added new file, home.html
+
+[33mcommit 134660d102e3f1940e58a9a715f6aa46d56333ee[m
+Author: David Eric Oreta <deoreta@mseuf.edu.ph>
+Date:   Thu Mar 10 10:51:06 2022 +0800
+
+    Added h1 content in the body
+
+[33mcommit 6d6200555281abe092a6b16a84f6e031fcfd40a2[m
+Author: David Eric Oreta <deoreta@mseuf.edu.ph>
+Date:   Thu Mar 10 10:49:30 2022 +0800
+
+    Added a title
+
+[33mcommit 11123c19dacbc085f985122b70186dab9e6574f2[m
+Author: David Eric Oreta <deoreta@mseuf.edu.ph>
+Date:   Thu Mar 10 10:45:18 2022 +0800
+
+    Added a basic html structure
+
+[33mcommit e449cafabb9bf71a3d101ad0a1c4c4e5d046eba6[m
+Author: David Eric Oreta <deoreta@mseuf.edu.ph>
+Date:   Thu Mar 10 10:41:00 2022 +0800
+
+    Added a new blank index.html
